@@ -1,11 +1,12 @@
-# Good Morning
 <div align="center">
-<h3>Good evening chaps. My name is Sam and I am a student studying Computer Science and Music Technology.</h3>
-<h3>I find programming enjoyable, currently knowing Python and HTML/CSS/JS and am learning C++.</h3>
+
+# Good Morning
+<h3>My name is Sam and I am a student studying Computer Science and Music Technology.</h3>
+<h3>I have experience in Python and HTML/CSS/JS, and am currently learning C++.</h3>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-bald-lad&hide=shaderlab,hlsl&theme=github_dark&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=the-bald-lad&show_icons=true&theme=github_dark&title_color=blue&count_private=true&hide_border=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-bald-lad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=the-bald-lad&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&stroke=1C1278&border=3421DD00&fire=DD7419&ring=2B1CBA&dates=3B26FF">
 </a>
 </div>
 
