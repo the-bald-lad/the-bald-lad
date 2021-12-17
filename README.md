@@ -5,7 +5,7 @@
 <h3>I have experience in Python and HTML/CSS/JS, and am currently learning Java.</h3>
 <hr>
 <a href="https://github.com/the-bald-lad">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-bald-lad&layout=compact&hide=shaderlab,hlsl&theme=github_dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-bald-lad&hide=shaderlab,hlsl&theme=github_dark&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=the-bald-lad&show_icons=true&theme=github_dark&title_color=blue&count_private=true&hide_border=true">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=the-bald-lad&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&stroke=1C1278&border=3421DD00&fire=DD7419&ring=2B1CBA&dates=3B26FF">
 </a>
