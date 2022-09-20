@@ -1,9 +1,12 @@
-<div align="center">
+<div style="padding-left: 30px">
 
 # Hello
 <h3>My name is Sam and I am an A-Level student studying Computer Science and Music Technology.</h3>
-<h3>I have experience in Python, HTML/CSS/JS and a small amount of Java.</h3>
+<h3>I have experience in Python, HTML/CSS/JS, Ruby and a small amount of Java and Haskell.</h3>
+</div>
 <hr>
+
+<div align="center">
 <a href="https://github.com/the-bald-lad">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-bald-lad&hide=shaderlab,hlsl&theme=github_dark&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=the-bald-lad&show_icons=true&theme=github_dark&title_color=blue&count_private=true&hide_border=true">
@@ -11,10 +14,8 @@
 </a>
 
 
-</div>
 
 <hr>
-<div align="center">
 
 <a href="https://github.com/the-bald-lad?tab=followers">
 
