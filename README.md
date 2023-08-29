@@ -1,8 +1,8 @@
 <div style="padding-left: 30px">
 
 # Hello
-<h3>My name is Sam and I am an A-Level student studying Computer Science and Music Technology.</h3>
-<h3>I have experience in Python, HTML/CSS/JS, Ruby and a small amount of Java and Haskell.</h3>
+<h3>My name is Sam and I am a first year university student studying Computer Science.</h3>
+<h3>I have experience in Python, C#, Ruby, GDScript and a small amount of Java, Haskell and HTML/CSS/JS.</h3>
 </div>
 <hr>
 
