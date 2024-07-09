@@ -3,8 +3,8 @@
 # Hi, my name is Sam!
 
 <h3>I am a first year university student studying a Computer Science BSc degree</h3>
-<h3>I have experience in Python, C#, Ruby, GDScript and a small amount of Java, Haskell and HTML/CSS/JS.</h3>
-<h3>Currently, I am studying Python and C++, and I have a long term project that I will be working on inbetween my studies.</h3>
+<h3>I have experience in Python, C++, C#, GDScript and a small amount of Java, Haskell and HTML/CSS/JS.</h3>
+<h3>Currently, I am studying Python and C++, and I am planning to be working on long term projects inbetween my studies.</h3>
 
 </div>
 <hr>
