@@ -2,9 +2,8 @@
 
 # Hi, my name is Sam!
 
-<h3>I am a second year university student studying a Computer Science BSc degree</h3>
-<h3>I have experience in Python, C++, C#, GDScript and a small amount of Java, Haskell and HTML/CSS/JS.</h3>
-<h3>Currently, I am studying Python and C++, and I am planning to be working on long term projects inbetween my studies.</h3>
+<h3>I am a university student studying a Computer Science BSc degree, currently on an industrial placement.</h3>
+<h3>I have experience in C#, C++ and Python from both professional and university projects.</h3>
 
 </div>
 <hr>
@@ -26,16 +25,16 @@
 
 </a>
 
-
-
 <hr>
 
 <a href="https://github.com/the-bald-lad?tab=followers">
 
 ![GitHub followers](https://img.shields.io/github/followers/the-bald-lad?style=social)  </a>![GitHub User's stars](https://img.shields.io/github/stars/the-bald-lad?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-3670A0?style=for-the-badge&logo=c%2B%2B&logoColor=ffdd54)   
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=blue)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/c++-3670A0?style=for-the-badge&logo=c%2B%2B&logoColor=ffdd54)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 <a href="https://github.com/the-bald-lad/">
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </a>
